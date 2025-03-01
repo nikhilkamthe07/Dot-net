@@ -1,0 +1,7 @@
+C:\Users\krush\Desktop\.net\Dot-net-assignment\bin\Debug\Dot-net-assignment.exe.config
+C:\Users\krush\Desktop\.net\Dot-net-assignment\bin\Debug\Dot-net-assignment.exe
+C:\Users\krush\Desktop\.net\Dot-net-assignment\bin\Debug\Dot-net-assignment.pdb
+C:\Users\krush\Desktop\.net\Dot-net-assignment\obj\Debug\Dot-net-assignment.csproj.AssemblyReference.cache
+C:\Users\krush\Desktop\.net\Dot-net-assignment\obj\Debug\Dot-net-assignment.csproj.CoreCompileInputs.cache
+C:\Users\krush\Desktop\.net\Dot-net-assignment\obj\Debug\Dot-net-assignment.exe
+C:\Users\krush\Desktop\.net\Dot-net-assignment\obj\Debug\Dot-net-assignment.pdb
